@@ -2,6 +2,8 @@
 
 > Summarized by Claude Opus 5.5 - Information might not be 100% accurate
 
+**Dowloads at [sollerto.de](https://sollerto.de)**
+
 Press **Insert** in the game to open the menu. Anything marked **HOST** only works when you host the game (or play solo); everything else also works in a friend's game. Any switch or button can get its own hotkey: right-click it and press a key.
 
 **Free and members:** without an account you get God mode, Infinite stamina, Movement boost and Unlimited jumps, the whole ESP and Teleport tabs, and the menu settings. Everything else is marked **MEMBER** in the menu and unlocks when you sign in to [sollerto.de](https://sollerto.de) (Menu tab, Sign in). The Offline download has no sign-in and everything unlocked (UnknownCheats upload).
